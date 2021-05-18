@@ -627,4 +627,3 @@ class Spear:  # Base Peer class
     
     def close(self):
         self.running = False
-        
